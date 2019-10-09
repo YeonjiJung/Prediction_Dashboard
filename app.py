@@ -1,9 +1,5 @@
-#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  9 18:46:51 2019
-@author: Yeonji
-"""
+# -*- coding: utf-8 -*-
 
 import dash
 
